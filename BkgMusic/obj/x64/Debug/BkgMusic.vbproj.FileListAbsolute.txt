@@ -1,0 +1,12 @@
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\bin\x64\Debug\bkgmusic.exe
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\bin\x64\Debug\bkgmusic.pdb
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\BkgMusic.vbproj.ResolveComReference.cache
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\bkgmusic.BkgMusic.resources
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\bkgmusic.Resources.resources
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\BkgMusic.vbproj.GenerateResource.Cache
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\bkgmusic.exe
+C:\Users\User1\Desktop\ClassPadTools-20230320\BkgMusicPlayer-1.0.0.23021\BkgMusic\obj\x64\Debug\bkgmusic.pdb

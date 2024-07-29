@@ -1,0 +1,110 @@
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.mfrm.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.exe
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.pdb
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.exe
+C:\Users\ASUS\Desktop\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.pdb
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.exe
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.pdb
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.mfrm.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.exe
+D:\devtmp\dev-2021-10-01\fmp\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.1.21101_Dev1\Fly_Music_Player\obj\x86\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\bin\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\bin\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.2.22051_Dev2\Fly_Music_Player\obj\x86\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\bin\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\bin\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.3.22071_Beta\Fly_Music_Player\obj\x86\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\bin\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\bin\Release\fmp.pdb
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\bin\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\bin\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Interop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.ResolveComReference.cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.about.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.DirectoryTreeView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileExplorer.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.FileListView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.MenuItemView.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.musicfrm.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.Resources.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly_Music_Player.settings.resources
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\Fly Music Player.vbproj.GenerateResource.Cache
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\fmp.exe
+D:\学习资料\VBDev\FlyMusicPlayer\3.0.4.220xx\Fly_Music_Player\obj\x86\Release\fmp.pdb
